@@ -1,0 +1,14 @@
+#myElement {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 20px;
+}
+#addButton {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#removeButton {
+    padding: 10px 20px;
+    cursor: pointer;
+}
